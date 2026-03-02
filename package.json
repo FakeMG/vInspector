@@ -2,5 +2,8 @@
   "name": "com.fakemg.vinspector",
   "displayName": "vInspector",
   "version": "1.0.0",
-  "description": "Clone of vInspector"
+  "description": "Clone of vInspector",
+  "author": {
+    "name": "FakeMG"
+  }
 }
